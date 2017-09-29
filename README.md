@@ -1,2 +1,2 @@
 # preparepository
-не знам шта радим
+ignore the jumping screaming monkeys as well
