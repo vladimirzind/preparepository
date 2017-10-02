@@ -1,1 +1,4 @@
 print("i am totally in control")
+i=0
+while i<999:
+   print("everything is fine")
